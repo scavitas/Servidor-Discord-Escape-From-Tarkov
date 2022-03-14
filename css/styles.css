@@ -3035,6 +3035,11 @@ textarea.form-control-lg {
   background-color: #1DB954;
   border-color: #1DB954;
 }
+.btn-niby {
+  color: #000;
+  background-color: #c808f1;
+  border-color: #c808f1;
+}
 .btn-primary:hover {
   color: #fff;
   background-color: #1DB954;
@@ -12287,32 +12292,32 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About
+# Quienes Somos
 --------------------------------------------------------------*/
-.about {
+.quienessomos {
   padding: 120px 0;
 }
-.about .content h3 {
+.quienessomos .content h3 {
   font-weight: 600;
   font-size: 32px;
   color: #2c4964;
 }
-.about .content ul {
+.quienessomos .content ul {
   list-style: none;
   padding: 0;
 }
-.about .content ul li {
+.quienessomos .content ul li {
   padding-bottom: 10px;
 }
-.about .content ul i {
+.quienessomos .content ul i {
   font-size: 20px;
   padding-right: 4px;
   color: #5846f9;
 }
-.about .content p:last-child {
+.quienessomos .content p:last-child {
   margin-bottom: 0;
 }
-.about .content .read-more {
+.quienessomos .content .read-more {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -12325,10 +12330,10 @@ section {
   background: linear-gradient(45deg, #5846f9 0%, #7b27d8 100%);
   position: relative;
 }
-.about .content .read-more:hover {
+.quienessomos .content .read-more:hover {
   background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
 }
-.about .content .read-more i {
+.quienessomos .content .read-more i {
   font-size: 22px;
   position: absolute;
   right: 20px;
